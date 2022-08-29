@@ -173,7 +173,7 @@ const data = {
             slug: 'Butterscotch-pecan-brownies',
             category: 'cookies',
             image: '/images/butterscotch-pecan-brownies.jpg',
-            price: '$2.99',
+            price: '2.99',
             brand: 'Juju',
             rating: '4.5',
             numReviews: '10',
