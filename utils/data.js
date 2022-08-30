@@ -3,7 +3,7 @@ const data = {
     {
       name: 'Chocolate Chip Cookies',
       slug: 'chocolate-chip-cookies',
-      category: 'cookies',
+      category: 'Cookies',
       image: '/images/chocolate-chip-cookies.jpg',
       price: '1.99',
       brand: 'Juju',
@@ -15,7 +15,7 @@ const data = {
     {
       name: 'Oatmeal Chocolate Chip Cookies',
       slug: 'oatmeal-chocolate-chip-cookies',
-      category: 'cookies',
+      category: 'Cookies',
       image: '/images/oatmeal-chocolate-chip-cookies.jpg',
       price: '1.99',
       brand: 'Juju',
@@ -27,7 +27,7 @@ const data = {
     {
       name: 'White Chocolate Macadamia Nut Cookies',
       slug: 'white-chocolate-Macadameia-nut-cookies',
-      category: 'cookies',
+      category: 'Cookies',
       image: '/images/white-chocolate-macadamia-nut-cookies.jpg',
       price: '1.99',
       brand: 'Juju',
@@ -39,7 +39,7 @@ const data = {
     {
       name: 'Peanut Butter Chip Cookies',
       slug: 'peanut-butter-chip-cookies',
-      category: 'cookies',
+      category: 'Cookies',
       image: '/images/peanut-butter-chip-cookies.jpg',
       price: '1.99',
       brand: 'Juju',
@@ -51,7 +51,7 @@ const data = {
     {
       name: 'Butterscotch Pecan Cookies',
       slug: 'Butterscotch-pecan-cookies',
-      category: 'cookies',
+      category: 'Cookies',
       image: '/images/butterscotch-pecan-cookies.jpg',
       price: '1.99',
       brand: 'Juju',
@@ -63,7 +63,7 @@ const data = {
     {
       name: 'Keto Chocolate Chip Cookies',
       slug: 'keto-chocolate-chip-cookies',
-      category: 'keto-cookies',
+      category: 'Keto-Cookies',
       image: '/images/chocolate-chip-cookies.jpg',
       price: '3.99',
       brand: 'Juju',
@@ -75,7 +75,7 @@ const data = {
     {
       name: 'Keto Oatmeal Chocolate Chip Cookies',
       slug: 'keto-oatmeal-chocolate-chip-cookies',
-      category: 'keto-cookies',
+      category: 'Keto-Cookies',
       image: '/images/oatmeal-chocolate-chip-cookies.jpg',
       price: '3.99',
       brand: 'Juju',
@@ -87,7 +87,7 @@ const data = {
     {
       name: 'Keto White Chocolate Macadamia Nut Cookies',
       slug: 'keto-white-chocolate-Macadameia-nut-cookies',
-      category: 'keto-cookies',
+      category: 'Keto-Cookies',
       image: '/images/white-chocolate-macadamia-nut-cookies.jpg',
       price: '3.99',
       brand: 'Juju',
@@ -99,7 +99,7 @@ const data = {
     {
       name: 'Keto Peanut Butter Chip Cookies',
       slug: 'keto-peanut-butter-chip-cookies',
-      category: 'keto-cookies',
+      category: 'Keto-Cookies',
       image: '/images/peanut-butter-chip-cookies.jpg',
       price: '3.99',
       brand: 'Juju',
@@ -111,7 +111,7 @@ const data = {
     {
       name: 'Keto Butterscotch Pecan Cookies',
       slug: 'keto-butterscotch-pecan-cookies',
-      category: 'keto-cookies',
+      category: 'Keto-Cookies',
       image: '/images/butterscotch-pecan-cookies.jpg',
       price: '3.99',
       brand: 'Juju',
@@ -123,7 +123,7 @@ const data = {
     {
       name: 'Chocolate Chip Brownies',
       slug: 'chocolate-chip-brownies',
-      category: 'cookies',
+      category: 'Brownies',
       image: '/images/chocolate-chip-brownies.jpg',
       price: '2.99',
       brand: 'Juju',
@@ -135,7 +135,7 @@ const data = {
     {
       name: 'Oatmeal Chocolate Chip Brownies',
       slug: 'oatmeal-chocolate-chip-brownies',
-      category: 'cookies',
+      category: 'Brownies',
       image: '/images/oatmeal-chocolate-chip-brownies.jpg',
       price: '2.99',
       brand: 'Juju',
@@ -147,7 +147,7 @@ const data = {
     {
       name: 'White Chocolate Macadamia Nut Brownies',
       slug: 'white-chocolate-Macadameia-nut-brownies',
-      category: 'cookies',
+      category: 'Brownies',
       image: '/images/white-chocolate-macadamia-nut-brownies.jpg',
       price: '2.99',
       brand: 'Juju',
@@ -159,7 +159,7 @@ const data = {
     {
       name: 'Peanut Butter Chip Brownies',
       slug: 'peanut-butter-chip-brownies',
-      category: 'cookies',
+      category: 'Brownies',
       image: '/images/peanut-butter-chip-brownies.jpg',
       price: '2.99',
       brand: 'Juju',
@@ -171,7 +171,7 @@ const data = {
     {
       name: 'Butterscotch Pecan Brownies',
       slug: 'Butterscotch-pecan-brownies',
-      category: 'cookies',
+      category: 'Brownies',
       image: '/images/butterscotch-pecan-brownies.jpg',
       price: '2.99',
       brand: 'Juju',
